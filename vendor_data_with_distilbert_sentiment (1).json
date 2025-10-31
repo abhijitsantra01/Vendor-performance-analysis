@@ -1,0 +1,740 @@
+{
+  "metadata": {
+    "total_companies": 6,
+    "events_per_company": 15,
+    "total_events": 90,
+    "time_period": "2020-2025",
+    "data_source": "Indian news portals and company press releases",
+    "created_date": "2025-09-21"
+  },
+  "companies": [
+    "Reliance Industries",
+    "Tata Group",
+    "Infosys",
+    "Adani Group",
+    "Wipro",
+    "HDFC Bank"
+  ],
+  "vendor_data": [
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance AGM 2025: Jio IPO by H1 2026, AI subsidiary launch announced",
+      "date": "2025-08-29",
+      "news_event": "Mukesh Ambani confirmed Jio will file for its IPO by the first half of 2026. He also unveiled Reliance Intelligence, a new AI subsidiary to build green energy-powered data centres. The company plans to double EBITDA by 2027 and announced partnerships with Google and Meta for AI development.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "MoneyControl",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance Intelligence launched as wholly-owned AI subsidiary",
+      "date": "2025-09-18",
+      "news_event": "Reliance Industries launched Reliance Intelligence, a wholly-owned subsidiary to spearhead its AI ambitions in India. This move includes a $100 million joint venture with Meta and expanded partnership with Google for AI-driven solutions.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Today",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance to more than double operating profit by 2027",
+      "date": "2025-08-28",
+      "news_event": "Chairman Mukesh Ambani announced that Reliance will more than double its Ebitda by 2027, calling it the company's 'golden decade'. The new energy business is expected to become as large as O2C within 5-7 years.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Times of India",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance AGM 2024: Launch of Jio Brain and AI-Cloud services",
+      "date": "2024-08-28",
+      "news_event": "Reliance introduced Jio Brain, a comprehensive AI service platform, and announced Jio AI-Cloud Welcome Offer providing up to 100 GB free cloud storage. The company committed to democratizing AI with national AI infrastructure powered by green energy.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance Consumer Products targets Rs 1 lakh crore revenue",
+      "date": "2025-09-08",
+      "news_event": "Reliance Consumer Products Ltd is targeting a Rs 1 lakh crore revenue milestone within five years, positioning itself to become India's largest FMCG company. The business achieved Rs 11,500 crore turnover in its inaugural year.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Upstox",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance-Disney merger approved strengthening media position",
+      "date": "2024-08-28",
+      "news_event": "The Reliance-Disney merger was approved, strengthening Reliance's position in the media-entertainment industry. This strategic move consolidates India's largest media and entertainment platform.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Financial Express",
+      "company_name": "Reliance Industries",
+      "headline": "Jio achieves 500 million subscribers milestone",
+      "date": "2025-08-29",
+      "news_event": "Reliance Jio crossed the 500 million subscriber mark, becoming India's largest telecom and digital services provider. The company announced plans for complete 5G migration and move to 6G by 2030.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "MoneyControl",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance announces Net Carbon Zero by 2035 commitment",
+      "date": "2020-07-15",
+      "news_event": "Reliance Industries announced its commitment to become Net Carbon Zero by 2035, with massive investments in green hydrogen, solar energy, and battery storage systems. The company unveiled plans for giga-scale solar and battery manufacturing.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Reliance Industries",
+      "headline": "Partnership with Google for $4.5 billion investment in Jio",
+      "date": "2020-07-15",
+      "news_event": "Google announced a $4.5 billion investment in Jio Platforms, marking one of the largest tech investments in India. The partnership focuses on building affordable smartphones and expanding digital services across India.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Standard",
+      "company_name": "Reliance Industries",
+      "headline": "Facebook invests $5.7 billion in Jio Platforms",
+      "date": "2020-04-22",
+      "news_event": "Facebook (now Meta) invested $5.7 billion for a 9.99% stake in Jio Platforms, marking the largest investment in an Indian technology company. The partnership aimed to digitize small businesses and expand WhatsApp payments in India.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Jio Press Release",
+      "company_name": "Reliance Industries",
+      "headline": "Jio launches True 5G services across 365+ cities",
+      "date": "2023-03-15",
+      "news_event": "Reliance Jio announced the launch of its True 5G services across 365 cities in India, making it the fastest 5G rollout in the world. The service promises 10x better performance and coverage compared to existing networks.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance Retail becomes India's largest retailer by revenue",
+      "date": "2023-05-12",
+      "news_event": "Reliance Retail achieved Rs 3,30,943 crore gross revenue and operates 19,340 outlets across 7,000 towns, serving over 300 million customers monthly. The company targets 20% compound annual revenue growth over the next three years.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "MoneyControl",
+      "company_name": "Reliance Industries",
+      "headline": "KG-D6 gas production reaches full capacity",
+      "date": "2021-06-15",
+      "news_event": "Reliance Industries achieved full production capacity at its KG-D6 gas basin, significantly boosting India's domestic natural gas production. This milestone supports India's energy security and reduces import dependency.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Today",
+      "company_name": "Reliance Industries",
+      "headline": "Reliance enters new energy sector with giga factory plans",
+      "date": "2022-04-18",
+      "news_event": "Reliance announced ambitious plans to build a new energy ecosystem including solar manufacturing, battery production, and green hydrogen facilities at Jamnagar. The investment is expected to exceed $10 billion over the next decade.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Reliance Industries",
+      "headline": "Jio Financial Services spun off as separate entity",
+      "date": "2023-08-21",
+      "news_event": "Reliance Industries spun off Jio Financial Services as a separate listed entity, creating a dedicated platform for digital financial services including lending, insurance, and wealth management solutions.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Newsroom",
+      "company_name": "Tata Group",
+      "headline": "Tata Group plans 500,000 new manufacturing jobs over next five years",
+      "date": "2025-01-15",
+      "news_event": "Tata Group Chairman N Chandrasekaran announced plans to create over 500,000 manufacturing jobs over the next five years through investments in batteries, semiconductors, electric vehicles, solar equipment and other critical hardware manufacturing.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Tata Group",
+      "headline": "Tata Motors achieves record EV market share of 74.61%",
+      "date": "2023-08-15",
+      "news_event": "Tata Motors achieved a dominant 74.61% market share in India's electric vehicle segment, with over one lakh EVs produced. The company announced investment of Rs 18,000 crore in EV business over six years and plans to launch 10 new EV models.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "TCS Press Release",
+      "company_name": "Tata Group",
+      "headline": "TCS collaborates with Qualcomm for AI-driven sustainable solutions",
+      "date": "2025-09-17",
+      "news_event": "Tata Consultancy Services announced collaboration with Qualcomm to create AI-driven solutions for various industries, focusing on sustainability and developing smart, sustainable capabilities across sectors.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Steel Press Release",
+      "company_name": "Tata Group",
+      "headline": "Tata Steel's Hooghly Met Coke crosses 25 million tonne milestone",
+      "date": "2025-07-18",
+      "news_event": "Tata Steel's Hooghly Met Coke facility in Haldia became the first non-recovery coke maker in India to cross the 25 million tonne production milestone, marking a significant achievement in steel manufacturing.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Standard",
+      "company_name": "Tata Group",
+      "headline": "Tata Group doubles revenue and triples profit in five years",
+      "date": "2025-07-23",
+      "news_event": "Tata Sons reported 24% rise in FY25 revenue to Rs 5.92 lakh crore. The group has doubled revenue, tripled profit and market cap over five years, driven by strategic focus on new-age businesses and digital transformation.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Motors Press Release",
+      "company_name": "Tata Group",
+      "headline": "Tata Motors launches hydrogen-powered truck trials",
+      "date": "2025-03-05",
+      "news_event": "Tata Motors initiated the first-ever trials of hydrogen-powered heavy-duty trucks in India, marking a significant step in sustainable mobility. The trial is funded under the National Green Hydrogen Mission for long-haul transport viability.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "TCS Newsroom",
+      "company_name": "Tata Group",
+      "headline": "TCS unveils chiplet-based system engineering services",
+      "date": "2025-09-11",
+      "news_event": "TCS launched chiplet-based system engineering services to accelerate semiconductor innovation, helping semiconductor companies push boundaries of traditional chip design and enhance manufacturing capabilities.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Newsroom",
+      "company_name": "Tata Group",
+      "headline": "India's first semiconductor fab groundbreaking in Gujarat",
+      "date": "2024-01-15",
+      "news_event": "Tata Group broke ground for India's first semiconductor fabrication facility in Dholera, Gujarat, along with a semiconductor OSAT plant in Assam. The facilities represent major milestones in India's semiconductor manufacturing capabilities.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Indian Hotels Press Release",
+      "company_name": "Tata Group",
+      "headline": "Taj brand recognized as world's strongest hotel brand",
+      "date": "2024-06-20",
+      "news_event": "Indian Hotels' Taj brand was recognized as the world's strongest hotel brand, reinforcing Tata Group's leadership in hospitality sector and expanding its global footprint in luxury accommodation.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Air India Press Release",
+      "company_name": "Tata Group",
+      "headline": "Air India merger creates integrated airline group",
+      "date": "2023-11-10",
+      "news_event": "Air India successfully integrated four airlines under Tata ownership to create one unified airline group serving India and international destinations, completing the largest aviation sector consolidation in Indian history.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Digital News",
+      "company_name": "Tata Group",
+      "headline": "Tata Digital acquires majority stake in BigBasket",
+      "date": "2021-05-18",
+      "news_event": "Tata Digital acquired a majority stake in online grocery platform BigBasket for approximately $1 billion, marking a significant entry into India's booming e-commerce and digital grocery market.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Power Press Release",
+      "company_name": "Tata Group",
+      "headline": "Tata Power commissions 300 MW solar plant in Rajasthan",
+      "date": "2022-09-25",
+      "news_event": "Tata Power commissioned a 300 MW solar photovoltaic plant in Rajasthan, part of its commitment to renewable energy expansion and supporting India's ambitious clean energy targets.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "TCS Annual Report",
+      "company_name": "Tata Group",
+      "headline": "TCS crosses $25 billion annual revenue milestone",
+      "date": "2022-04-14",
+      "news_event": "Tata Consultancy Services achieved a historic milestone by crossing $25 billion in annual revenue for FY22, becoming the first Indian IT services company to reach this landmark and reinforcing its position as a global technology leader.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Tata Steel Newsroom",
+      "company_name": "Tata Group",
+      "headline": "Tata Steel launches net-zero carbon roadmap by 2050",
+      "date": "2021-10-12",
+      "news_event": "Tata Steel announced its commitment to achieve net-zero carbon emissions by 2050 across its operations, unveiling a comprehensive roadmap including investments in green hydrogen, carbon capture technologies, and renewable energy.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Trent Press Release",
+      "company_name": "Tata Group",
+      "headline": "Trent becomes fastest growing fashion retailer in India",
+      "date": "2023-12-08",
+      "news_event": "Trent Limited, Tata Group's fashion retail arm, emerged as India's fastest-growing fashion retailer with record revenues and expansion across multiple formats including Westside and Zudio, capturing significant market share in organized retail.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Press Release",
+      "company_name": "Infosys",
+      "headline": "Infosys announces record Rs 18,000 crore share buyback",
+      "date": "2025-09-11",
+      "news_event": "Infosys announced its biggest-ever Rs 18,000-crore share buyback, offering Rs 1,800 per share—an 18% premium to market price. This is the company's first tender offer buyback, demonstrating strong cash position and commitment to shareholders.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Newsroom",
+      "company_name": "Infosys",
+      "headline": "Infosys launches over 200 enterprise AI agents with Google Cloud",
+      "date": "2025-01-15",
+      "news_event": "Infosys announced the launch of over 200 enterprise AI agents powered by Infosys Topaz AI offerings and Google Cloud's Vertex AI Platform, accelerating digital transformation across industries with automated intelligent solutions.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Features",
+      "company_name": "Infosys",
+      "headline": "Infosys inaugurates Advanced AI and Cybersecurity Center in Hubballi",
+      "date": "2025-02-20",
+      "news_event": "Infosys launched its state-of-the-art Center for Advanced AI, Cybersecurity, and Space Technology at Hubballi Development Center in Karnataka, expanding capabilities in emerging technologies and strengthening innovation ecosystem.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Press Release",
+      "company_name": "Infosys",
+      "headline": "Infosys outlines ESG Vision 2030 to become climate positive",
+      "date": "2025-01-08",
+      "news_event": "Infosys announced an updated Environmental, Social and Governance Vision for 2030, aspiring to become climate positive by 2030 and expanding global skilling and livelihood commitments across multiple geographies.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Newsroom",
+      "company_name": "Infosys",
+      "headline": "Infosys acquires cybersecurity firm The Missing Link",
+      "date": "2025-03-10",
+      "news_event": "Infosys announced definitive agreement to acquire The Missing Link, an award-winning Australian cybersecurity services specialist, strengthening capabilities across the full stack of cyber solutions and expanding security offerings.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Press Release",
+      "company_name": "Infosys",
+      "headline": "Infosys launches Agentic AI Foundry to accelerate enterprise AI",
+      "date": "2024-12-05",
+      "news_event": "Infosys launched Infosys Agentic AI Foundry, a comprehensive solution designed to accelerate development and deployment of reliable production-grade AI agents, part of Infosys Topaz AI offerings portfolio.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Features",
+      "company_name": "Infosys",
+      "headline": "Infosys collaborates with Meta to drive enterprise AI innovation",
+      "date": "2024-10-15",
+      "news_event": "Infosys strengthened its collaboration with Meta to drive innovation in generative AI through open-source initiatives, unveiling a Center of Excellence to advance enterprise AI adoption through collaborative development.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Newsroom",
+      "company_name": "Infosys",
+      "headline": "Infosys inaugurates new development center in GIFT City",
+      "date": "2024-11-12",
+      "news_event": "Infosys inaugurated its new Development Center at Gujarat International Finance Tec-City (GIFT City) in Gandhinagar, expanding its presence in India's premier financial hub and supporting fintech innovation.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Press Release",
+      "company_name": "Infosys",
+      "headline": "Infosys and Adobe announce strategic AI-powered marketing collaboration",
+      "date": "2024-09-18",
+      "news_event": "Infosys and Adobe announced strategic collaboration to jointly transform marketing lifecycle of global brands with AI, combining Adobe's creative and marketing technology with Infosys' digital transformation expertise.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Annual Report",
+      "company_name": "Infosys",
+      "headline": "Infosys crosses $18 billion annual revenue milestone",
+      "date": "2023-04-13",
+      "news_event": "Infosys achieved annual revenues of $18.2 billion for FY23, demonstrating consistent growth and market leadership in digital transformation services across global markets.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Newsroom",
+      "company_name": "Infosys",
+      "headline": "Infosys launches digital innovation center for automotive sector",
+      "date": "2022-08-20",
+      "news_event": "Infosys established a dedicated digital innovation center focused on automotive industry transformation, developing solutions for connected vehicles, autonomous driving, and sustainable mobility platforms.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Infosys",
+      "headline": "Infosys announces $2 billion cost optimization program",
+      "date": "2021-07-14",
+      "news_event": "Infosys launched a comprehensive $2 billion cost optimization and automation program aimed at improving operational efficiency and investing savings into emerging technology capabilities and talent acquisition.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Press Release",
+      "company_name": "Infosys",
+      "headline": "Infosys wins multi-billion dollar deal with Vanguard",
+      "date": "2021-02-16",
+      "news_event": "Infosys secured a landmark multi-billion dollar, multi-year agreement with Vanguard to provide application development, maintenance and testing services, representing one of the largest deals in company history.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Foundation",
+      "company_name": "Infosys",
+      "headline": "Infosys commits $200 million for COVID-19 relief efforts",
+      "date": "2020-04-28",
+      "news_event": "Infosys and Infosys Foundation committed $200 million for comprehensive COVID-19 relief efforts including healthcare infrastructure, emergency response, and community support programs across India.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Infosys Newsroom",
+      "company_name": "Infosys",
+      "headline": "Infosys expands collaboration with Microsoft for cloud transformation",
+      "date": "2020-09-10",
+      "news_event": "Infosys expanded its strategic partnership with Microsoft, committing to train 25,000 employees on Microsoft Azure cloud platform and establishing dedicated cloud transformation centers to accelerate enterprise digital adoption.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Adani Group",
+      "headline": "SEBI gives Adani Group clean chit in Hindenburg case",
+      "date": "2025-09-16",
+      "news_event": "SEBI dismissed allegations against Adani Group from Hindenburg Research's report, finding no evidence of fraud, market manipulation, or misuse of funds. The ruling led to a surge in Adani stocks with market cap rising by Rs 69,000 crore.",
+      "sentiment_tag": "negative"
+    },
+    {
+      "news_portal": "Adani Newsroom",
+      "company_name": "Adani Group",
+      "headline": "Adani secures Sonprayag-Kedarnath ropeway project worth Rs 4,081 crore",
+      "date": "2025-06-15",
+      "news_event": "Adani Enterprises secured the Sonprayag-Kedarnath ropeway project with an investment of Rs 4,081 crore. The 12.9 km ropeway will significantly reduce travel time to Kedarnath and operate under a Public-Private Partnership model.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "MoneyControl",
+      "company_name": "Adani Group",
+      "headline": "Adani Group market cap surges Rs 46,000 crore after SEBI verdict",
+      "date": "2025-09-17",
+      "news_event": "Following SEBI's clean chit, Adani Group's combined market capitalization surged over Rs 46,000 crore to Rs 13.8 lakh crore. Individual stocks jumped up to 10%, marking the end of regulatory overhang that had persisted since January 2023.",
+      "sentiment_tag": "negative"
+    },
+    {
+      "news_portal": "Business Today",
+      "company_name": "Adani Group",
+      "headline": "Adani re-enters semiconductor sector scouting for LCD fab partners",
+      "date": "2025-05-20",
+      "news_event": "Adani Group made its second attempt to enter the semiconductor sector by scouting for partners for LCD fabrication facilities, following the earlier collapse of its chip facility proposal in Maharashtra with Israel's Tower Semiconductor.",
+      "sentiment_tag": "negative"
+    },
+    {
+      "news_portal": "Adani Press Release",
+      "company_name": "Adani Group",
+      "headline": "Adani unveils 100 MW solar plant in Bathinda, Punjab",
+      "date": "2025-04-12",
+      "news_event": "Adani Group commissioned a 100 MW solar photovoltaic plant in Bathinda, Punjab, as part of its renewable energy expansion strategy and commitment to India's clean energy targets and carbon neutrality goals.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Adani Group",
+      "headline": "Adani Green Energy becomes world's largest renewable company",
+      "date": "2024-08-15",
+      "news_event": "Adani Green Energy achieved the milestone of becoming the world's largest renewable energy company by market capitalization, with operational capacity exceeding 10 GW and committed pipeline of over 45 GW of renewable projects.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Financial Express",
+      "company_name": "Adani Group",
+      "headline": "Adani Ports handles record 400 million tonnes cargo",
+      "date": "2024-03-28",
+      "news_event": "Adani Ports & SEZ achieved a historic milestone by handling 400 million tonnes of cargo in FY24, reinforcing its position as India's largest private port operator and a key player in the country's maritime infrastructure.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Standard",
+      "company_name": "Adani Group",
+      "headline": "Adani Enterprises diversifies into healthcare with Rs 6,000 crore investment",
+      "date": "2024-02-18",
+      "news_event": "Adani Group announced Rs 6,000 crore investment to develop two integrated health campuses in Mumbai and Ahmedabad in collaboration with Mayo Clinic, marking entry into healthcare sector.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Adani Newsroom",
+      "company_name": "Adani Group",
+      "headline": "Adani acquires Haifa Port in Israel for $1.18 billion",
+      "date": "2023-07-31",
+      "news_event": "Adani Ports acquired Haifa Port in Israel for $1.18 billion, marking its first international port acquisition and expanding its global maritime infrastructure footprint beyond Indian shores.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "MoneyControl",
+      "company_name": "Adani Group",
+      "headline": "Hindenburg Research publishes report on Adani Group",
+      "date": "2023-01-24",
+      "news_event": "Hindenburg Research published a report alleging accounting fraud and stock manipulation against Adani Group, leading to significant stock price decline and market volatility across Adani companies.",
+      "sentiment_tag": "negative"
+    },
+    {
+      "news_portal": "Reuters",
+      "company_name": "Adani Group",
+      "headline": "Adani becomes world's third richest person briefly",
+      "date": "2022-09-16",
+      "news_event": "Gautam Adani briefly became the world's third richest person with net worth exceeding $137 billion, driven by surge in Adani Group stock prices across renewable energy and infrastructure businesses.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Adani Group",
+      "headline": "Adani Green raises $750 million through green bonds",
+      "date": "2022-02-10",
+      "news_event": "Adani Green Energy successfully raised $750 million through its maiden green bond issuance, marking one of the largest green financing by an Indian renewable energy company for capacity expansion.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Today",
+      "company_name": "Adani Group",
+      "headline": "Adani completes acquisition of Mumbai airport operations",
+      "date": "2021-11-07",
+      "news_event": "Adani Airport Holdings completed the acquisition of Mumbai airport operations from GVK Group, making Adani the operator of eight airports in India including Delhi, Mumbai, Ahmedabad, and Lucknow.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Financial Express",
+      "company_name": "Adani Group",
+      "headline": "Adani Transmission wins largest power transmission project",
+      "date": "2021-06-25",
+      "news_event": "Adani Transmission won India's largest power transmission project worth Rs 20,783 crore from Power Grid Corporation, involving establishment of transmission system in Rajasthan to evacuate renewable energy.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Adani Press Release",
+      "company_name": "Adani Group",
+      "headline": "Adani Power commissions 1,320 MW thermal plant in Godda",
+      "date": "2020-10-12",
+      "news_event": "Adani Power commissioned its 1,320 MW coal-fired thermal power plant in Godda, Jharkhand, dedicated to supply electricity to Bangladesh under a 25-year power purchase agreement, enhancing regional energy cooperation.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "EnrichMoney",
+      "company_name": "Wipro",
+      "headline": "Wipro secures £500 million strategic deal with Phoenix Group",
+      "date": "2025-03-27",
+      "news_event": "Wipro secured a £500 million, 10-year strategic deal with Phoenix Group, the UK's largest long-term savings and retirement business. The project will enhance life and pension business administration while accelerating operational transformation.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "AngelOne",
+      "company_name": "Wipro",
+      "headline": "Wipro to acquire DTS for $375 million to boost digital engineering",
+      "date": "2025-08-21",
+      "news_event": "Wipro signed an agreement to acquire Harman Connected Services (DTS) for up to $375 million, strengthening its Engineering R&D and IT services capabilities in digital engineering, AI, and expanding global delivery presence.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Wipro Newsroom",
+      "company_name": "Wipro",
+      "headline": "Wipro launches TelcoAI360 platform for telecom operations",
+      "date": "2025-03-06",
+      "news_event": "Wipro launched TelcoAI360, an AI-first Managed Services platform designed to revolutionize telecom operations. The platform enables telcos to deploy differentiated technology solutions at scale while reducing costs and enhancing customer experience.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "EnrichMoney",
+      "company_name": "Wipro",
+      "headline": "Wipro announces $200 million investment in Wipro Ventures",
+      "date": "2025-02-27",
+      "news_event": "Wipro announced a $200 million investment in Wipro Ventures to support early- to mid-stage startups. This marks the fourth round of funding since inception, reinforcing commitment to innovation and startup ecosystem growth.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Wipro",
+      "headline": "Wipro realigns global business lines for better client service",
+      "date": "2025-03-15",
+      "news_event": "Wipro restructured its four Global Business Lines effective April 1, 2025, to deliver integrated, outcome-driven solutions. The reorganization aims to sharpen focus on consulting-led and AI-powered solutions for enhanced client service.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "EnrichMoney",
+      "company_name": "Wipro",
+      "headline": "Wipro Q3 FY25 net profit surges 39% to Rs 2,812 crore",
+      "date": "2025-01-17",
+      "news_event": "Wipro reported a 39.01% rise in Q3 FY25 net profit to Rs 2,812 crore compared to Rs 2,023 crore in the previous year. Total revenue stood at Rs 16,803 crore while operating profit surged to Rs 4,052 crore.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Wipro Press Release",
+      "company_name": "Wipro",
+      "headline": "Wipro partners with Intel Foundry for advanced chip design",
+      "date": "2024-02-15",
+      "news_event": "Wipro entered into partnership with Intel Foundry to design and develop advanced semiconductor chips, strengthening capabilities in chip design services and expanding presence in the global semiconductor ecosystem.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Today",
+      "company_name": "Wipro",
+      "headline": "Wipro collaborates with IBM to offer advanced AI services",
+      "date": "2024-02-20",
+      "news_event": "Wipro partnered with IBM to offer advanced AI support and services to clients, leveraging IBM's Watson AI capabilities and Wipro's domain expertise to deliver intelligent automation solutions across industries.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "EnrichMoney",
+      "company_name": "Wipro",
+      "headline": "Wipro launches joint venture 'SDVerse' with GM and Magna",
+      "date": "2024-02-25",
+      "news_event": "Wipro teamed up with General Motors and Magna to develop 'SDVerse', an automotive software marketplace focused on software-defined vehicles and next-generation automotive technology solutions.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Wipro Newsroom",
+      "company_name": "Wipro",
+      "headline": "Wipro showcases 5G and 6G capabilities at MWC Barcelona",
+      "date": "2024-02-28",
+      "news_event": "Wipro showcased its 5G, 6G, AI connectivity features and Edge computing capabilities at Mobile World Congress Barcelona 2024, demonstrating leadership in next-generation telecommunications technologies.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Wipro",
+      "headline": "Azim Premji transfers Rs 483 crore Wipro shares to sons",
+      "date": "2024-01-15",
+      "news_event": "Wipro founder Azim Premji transferred Wipro IT shares worth Rs 483 crore to his sons Rishad and Tariq as a gift, representing a succession planning move within the founding family.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Wipro Press Release",
+      "company_name": "Wipro",
+      "headline": "Wipro acquires Capco for $1.45 billion to strengthen consulting",
+      "date": "2021-03-15",
+      "news_event": "Wipro completed the acquisition of Capco, a global management and technology consultancy, for $1.45 billion, significantly strengthening its consulting capabilities in financial services sector.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Standard",
+      "company_name": "Wipro",
+      "headline": "Wipro launches dedicated cloud business unit FullStride Cloud",
+      "date": "2021-07-22",
+      "news_event": "Wipro launched FullStride Cloud as a dedicated business unit to accelerate cloud transformation for enterprises, investing $1 billion over next three years in cloud technologies and talent acquisition.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Wipro Annual Report",
+      "company_name": "Wipro",
+      "headline": "Wipro crosses $10 billion annual revenue milestone",
+      "date": "2022-04-20",
+      "news_event": "Wipro achieved annual revenues exceeding $10 billion for FY22, marking a significant milestone in the company's growth journey and reinforcing its position among top-tier global IT services providers.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "Wipro",
+      "headline": "Wipro commits to net-zero carbon emissions by 2040",
+      "date": "2021-09-10",
+      "news_event": "Wipro committed to achieving net-zero carbon emissions across its operations by 2040, announcing comprehensive sustainability initiatives including renewable energy adoption and carbon offset programs.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "GoPocket",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank announces first-ever bonus issue and special dividend",
+      "date": "2025-07-16",
+      "news_event": "HDFC Bank announced its first-ever bonus issue of shares and a special interim dividend ahead of board meeting on July 19, 2025. This historic move demonstrates strong financial health and commitment to rewarding shareholders.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Press Release",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank launches Biz+ Current Accounts for MSME enterprises",
+      "date": "2025-05-15",
+      "news_event": "HDFC Bank launched new Biz+ Current Accounts, a reimagined suite designed for Indian businesses. The offering includes four variants with comprehensive benefits, business protection insurance, and 'One Bank' approach across 9,455 branches.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Newsroom",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank completes merger with parent HDFC Ltd",
+      "date": "2023-07-01",
+      "news_event": "HDFC Bank completed the merger with its parent HDFC Ltd, creating India's largest financial services entity with combined assets exceeding Rs 27 lakh crore and strengthening position in retail banking and home loans.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank becomes India's most valuable bank by market cap",
+      "date": "2023-02-15",
+      "news_event": "HDFC Bank became India's most valuable bank by market capitalization, crossing Rs 10 lakh crore valuation driven by consistent profitability, strong asset quality, and leadership in digital banking services.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Press Release",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank launches digital lending platform SmartLend",
+      "date": "2022-11-20",
+      "news_event": "HDFC Bank launched SmartLend, a comprehensive digital lending platform offering instant loan approvals and disbursals across personal, business, and vehicle loans with AI-powered risk assessment capabilities.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Today",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank crosses 100 million customer milestone",
+      "date": "2022-08-12",
+      "news_event": "HDFC Bank crossed the 100 million customer milestone, becoming one of the first Indian banks to achieve this scale. The achievement reflects strong retail franchise and digital adoption across urban and rural markets.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Newsroom",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank wins 'Best Bank in India' award for fifth consecutive year",
+      "date": "2022-06-28",
+      "news_event": "FinanceAsia recognized HDFC Bank as 'Best Bank in India' for the fifth consecutive year, acknowledging excellence in financial performance, digital innovation, and customer service leadership.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "MoneyControl",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank reports record annual profit of Rs 50,000+ crore",
+      "date": "2022-04-16",
+      "news_event": "HDFC Bank reported record annual net profit exceeding Rs 50,000 crore for FY22, driven by strong loan growth, improved asset quality, and sustained net interest margins despite challenging operating environment.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Press Release",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank launches India's first WhatsApp banking service",
+      "date": "2021-10-18",
+      "news_event": "HDFC Bank launched India's first comprehensive WhatsApp banking service, enabling customers to perform various banking transactions through the messaging platform, enhancing digital banking accessibility.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Economic Times",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank becomes first Indian bank to cross Rs 1 trillion deposits",
+      "date": "2021-07-25",
+      "news_event": "HDFC Bank became the first Indian private sector bank to cross Rs 1 trillion in deposits, demonstrating strong customer trust and successful liability franchise expansion across customer segments.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Newsroom",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank launches contactless banking during COVID-19",
+      "date": "2020-05-12",
+      "news_event": "HDFC Bank launched comprehensive contactless banking solutions during COVID-19 pandemic, including video-based customer onboarding, digital loan processing, and enhanced mobile banking features for customer safety.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Business Standard",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank expands rural presence with 1000+ new branches",
+      "date": "2020-12-08",
+      "news_event": "HDFC Bank expanded rural and semi-urban presence by opening over 1000 new branches during FY20-21, strengthening financial inclusion initiatives and capturing growth opportunities in underbanked regions.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Press Release",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank launches AI-powered chatbot EVA 2.0",
+      "date": "2020-03-15",
+      "news_event": "HDFC Bank launched EVA 2.0, an advanced AI-powered chatbot capable of handling complex customer queries across multiple languages, processing over 1 million customer interactions monthly with high satisfaction rates.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "Financial Express",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank leads digital payments with over 1 billion UPI transactions",
+      "date": "2021-01-20",
+      "news_event": "HDFC Bank processed over 1 billion UPI transactions, leading private sector banks in digital payments volume and demonstrating successful digital transformation strategy in payments ecosystem.",
+      "sentiment_tag": "positive"
+    },
+    {
+      "news_portal": "HDFC Bank Annual Report",
+      "company_name": "HDFC Bank",
+      "headline": "HDFC Bank maintains market leadership with 18% loan growth",
+      "date": "2021-04-17",
+      "news_event": "HDFC Bank maintained market leadership with 18% annual loan growth in FY21, driven by strong retail and corporate credit demand while maintaining superior asset quality metrics compared to industry peers.",
+      "sentiment_tag": "positive"
+    }
+  ]
+}
